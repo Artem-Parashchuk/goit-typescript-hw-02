@@ -1,4 +1,5 @@
-let anything = -20;
+let anything: number | string | {};
+anything = -20;
 anything = 'Text';
 anything = {};
 
